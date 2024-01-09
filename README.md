@@ -40,6 +40,11 @@ Me considero una persona responsable y organizada que valora la ética y la mora
 
 
 <br />
+### 👨‍💻  Habilidades
+-  Inglés Intermedio.
+- Autodidacta.
+-  Facilidad para comunicarse con los demás.
+-  Facilidad para trabajar en equipo.
 
 ### 📊  Experiencia
 **Desarrollador Laravel - abr. 2023 - jul. 2023**  <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
