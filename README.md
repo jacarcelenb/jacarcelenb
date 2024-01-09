@@ -40,7 +40,7 @@ Me considero una persona responsable y organizada que valora la ética y la mora
 
 
 <br />
-<br />
+
 ### 📊  Experiencia
 **Desarrollador Laravel - abr. 2023 - jul. 2023**  <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 
@@ -54,7 +54,7 @@ Me considero una persona responsable y organizada que valora la ética y la mora
 
 - Desarrollo de una aplicación web para la georeferenciación de clientes utilizando las tecnologías de Angular y .NET Core.
 
-**Desarrollador PHP - jun. 2022 - jul. 2022 ** <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+**Desarrollador PHP - jun. 2022 - jul. 2022** <img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 - Desarrollo de una página web informativa para la fundación aso life imbabura.
 
 **Desarrollador Java may. 2022 - jun. 2022** <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
