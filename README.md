@@ -1,4 +1,4 @@
-##  Jorge Carcelén  
+##  🏄‍♂️ Jorge Carcelén  
 ## Desarrollador De Software 
 
 Me considero una persona responsable y organizada que valora la ética y la moral tanto a nivel profesional como personal. También me gusta el desarrollo de software, aprender sobre nuevas tecnologías relacionadas con el campo de las tecnologías de la información (TI) y me encanta buscar nuevas oportunidades y retos para adquirir conocimientos, mejorar mis habilidades y en mi tiempo libre me gusta realizar diversas tareas que puedan contribuir a mi crecimiento personal o al bienestar social de las personas que me rodean.
